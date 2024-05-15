@@ -1,1 +1,17 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+footer {
+    /*position: fixed;*/
+    bottom: 0;
+    width: 100%;
+    height: 150px;  /* Altura a tu gusto */
+    font-size: 12px;
+    line-height: 15px;
+    
+ }
+
+ body{
+    background-image: url("assets/fondo.jpg"); 
+ }
+
